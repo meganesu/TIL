@@ -29,3 +29,7 @@ Container components...
 ## What's the point?
 
 Separating your app into presentational and container components forces you to separate concerns in your app, which also makes your components more reusable.
+
+## Additional Resources
+
+* [Presentational and Container Components. Dan Abramov, Medium.](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
