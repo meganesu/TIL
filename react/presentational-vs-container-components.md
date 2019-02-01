@@ -16,6 +16,16 @@ Presentational components...
 
 They do NOT have logic about how things work.
 
+```javascript
+const List = { items } => (
+  <ul>
+    {
+      items.map(item => <li>{item}</li>)
+    }
+  </ul>
+)
+```
+
 ## Container Components
 
 These components should handle the logic about how things _work_.
@@ -25,6 +35,22 @@ Container components...
 * Handle fetching and/or transforming data.
 * Pass data to a presentational component (or another container component) via props.
 * Can be stateful, since they are often a data source for other components.
+* Don't have any styling or rendering of their own.
+
+```javascript
+class ListContainer extends React.Component {
+  state = { items: [] };
+
+  componentDidMount() {
+    fetchListItems(items => this.setState({ items: items }));
+  }
+
+  render() {
+    return <List items={this.state.items} />
+  }
+}
+```
+
 
 ## What's the point?
 
