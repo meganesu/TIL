@@ -68,6 +68,12 @@ const [first, , last] = ['uno', 'dos', 'tres'];
 
 ```
 
+```javascript
+const [, last] = ['Peter', 'Paul', 'Mary'];
+// last = 'Mary'
+
+```
+
 ### Put The Rest Somewhere Else
 
 If you don't want to lose the extra data, you can store it in another variable.
