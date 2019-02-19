@@ -69,7 +69,7 @@ const [first, , last] = ['uno', 'dos', 'tres'];
 ```
 
 ```javascript
-const [, last] = ['Peter', 'Paul', 'Mary'];
+const [, , last] = ['Peter', 'Paul', 'Mary'];
 // last = 'Mary'
 
 ```
