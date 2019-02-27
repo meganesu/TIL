@@ -8,6 +8,7 @@ A place to keep track of little tidbits and concepts I've picked up.
 
 * [JavaScript](javascript/)
 * [React](react/)
+* [Sinon](sinon/)
 * [Unix](unix/)
 
 ---
