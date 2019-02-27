@@ -6,6 +6,7 @@ A place to keep track of little tidbits and concepts I've picked up.
 
 # Categories
 
+* [IntelliJ](intellij/)
 * [JavaScript](javascript/)
 * [React](react/)
 * [Sinon](sinon/)
