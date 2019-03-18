@@ -9,3 +9,8 @@
 * 
 
 # Testing
+
+# Refactoring
+
+* `cmd + option + N`: inline variable
+* `shift + F6`: rename
