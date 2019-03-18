@@ -8,14 +8,31 @@ Use a function to iterate over an array and reduce the contents to a single valu
 
 * `callback`: a function that gets called on each element in the array. This function should have the following parameters:
     * `accumulator`: a variable that keeps track of the current state of the single value to be returned
+        * Starts as `initialValue` if provided, otherwise starts as value of first element in the array
     * `currentValue`: the value of the element in the array currently being processed
     * `currentIndex`: (optional) the index of the element in the array currently being processed
-        * Starts at `0` if `initialValue` is provided, otherwise starts at `1`.
+        * Starts at `0` if `initialValue` is provided, otherwise starts at `1`
     * `array`: (optional) the array being reduced
 * `initialValue`: value to use the first time `callback` is called
 
 ## Example
 
+### Without `initialValue`
+```javascript
+const numbers = [1, 3, 7, 3];
+
+const sum = numbers.reduce(
+  (sum, number) => sum + number
+)
+```
+
+| accumulator (sum) | currentValue (number) | currentIndex | array | return |
+| --- | --- | --- | --- | --- |
+| 1 | 3 | 1 | `[1, 3, 7, 3]` | 1 + 3 = **4** |
+| 4 | 7 | 2 | `[1, 3, 7, 3]` | 4 + 7 = **11** |
+| 11 | 3 | 3 | `[1, 3, 7, 3]` | 11 + 3 = **14** |
+
+### With `initialValue`
 ```javascript
 const numbers = [1, 3, 7, 3];
 
