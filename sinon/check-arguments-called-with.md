@@ -5,7 +5,7 @@
 If you're using primitives as arguments, you can check the arguments your stub gets called with like this:
 
 ```javascript
-assert(functionStub.calledWith('string', 525))
+assert(functionStub.calledWith(525, 'some string param'))
 ```
 
 Keep in mind that `assert` will just check if something is true or false; it doesn't give you very descriptive error messages when things go wrong.
