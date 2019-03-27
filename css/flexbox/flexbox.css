@@ -1,0 +1,23 @@
+body {
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+#visual {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding: 30px 20px;
+}
+
+#editor {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  padding: 30px;
+}
+
+.item {
+  border: 1px solid black;
+  background-color: #525525;
+  width: 20px;
+  height: 20px;
+}

@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <title>Flexbox</title>
+    <link rel="stylesheet" type="text/css" href="flexbox.css">
+    <script src="flexbox.js"></script>
+  </head>
+  <body>
+    <div id="visual">
+      <div id="container">
+        <div id="item1" class="item"></div>
+        <div id="item2" class="item"></div>
+        <div id="item3" class="item"></div>
+        <div id="item4" class="item"></div>
+      </div>
+    </div>
+    <div id="editor">
+      <h1>Flexbox</h1>
+      <div>
+        <h2>Flex Container Attributes</h2>
+        <p>
+          <label>display:</label>
+          <select id="display">
+            <option value="">--</option>
+            <option value="flex">flex</option>
+            <option value="inline-flex">inline-flex</option>
+          </select>
+        </p>
+        <p>
+          <label>flex-direction:</label>
+          <select id="flex-direction">
+            <option value="">--</option>
+            <option value="row">row</option>
+            <option value="row-reverse">row-reverse</option>
+            <option value="column">column</option>
+            <option value="column-reverse">column-reverse</option>
+          </select>
+        </p>
+        <p>
+          <label>flex-wrap:</label>
+          <select id="flex-wrap">
+            <option value="">--</option>
+            <option value="nowrap">nowrap</option>
+            <option value="wrap">wrap</option>
+            <option value="wrap-reverse">wrap-reverse</option>
+          </select>
+        </p>
+        <p>
+          <span>flex-flow:</span>
+        </p>
+        <p>
+          <label>justify-content:</label>
+          <select id="justify-content">
+            <option value="">--</option>
+            <option value="flex-start">flex-start</option>
+            <option value="flex-end">flex-end</option>
+            <option value="center">center</option>
+            <option value="space-between">space-between</option>
+            <option value="space-around">space-around</option>
+            <option value="space-evenly">space-evenly</option>
+          </select>
+        </p>
+        <p>
+          <label>align-items:</label>
+          <select id="align-items">
+            <option value="">--</option>
+            <option value="flex-start">flex-start</option>
+            <option value="flex-end">flex-end</option>
+            <option value="center">center</option>
+            <option value="stretch">stretch</option>
+            <option value="baseline">baseline</option>
+          </select>
+        </p>
+        <p>
+          <label>align-content:</label>
+          <select id="align-content">
+            <option value="">--</option>
+            <option value="flex-start">flex-start</option>
+            <option value="flex-end">flex-end</option>
+            <option value="center">center</option>
+            <option value="stretch">stretch</option>
+            <option value="space-between">space-between</option>
+            <option value="space-around">space-around</option>
+          </select>
+        </p>
+      </div>
+      <div>
+        <h2>Flex Items</h2>
+      </div>
+    </div>
+  </body>
+</html>
