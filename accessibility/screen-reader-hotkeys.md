@@ -2,18 +2,18 @@
 
 ## VoiceOver (Mac OS)
 
-* Turn on/off: Cmd + F5
-* Enter Website: Ctrl + Opt + Shift + Down Arrow
-* Go to Next Item: Ctrl + Opt + Right Arrow
-* Go to Next Heading: Shift + Cmd + H
-* List All Headings: Caps Lock + U
-* Select Button or Link: Ctrl + Opt + Space
+* Turn on/off: `cmd + F5`
+* Enter Website: `ctrl + opt + shift + down arrow`
+* Go to Next Item: `ctrl + opt + right arrow`
+* Go to Next Heading: `shift + cmd + H`
+* List All Headings: `caps lock + U`
+* Select Button or Link: `ctrl + opt + space`
 
 ## NVDA (Windows)
 
-* Turn on: Control + Alt + N
-* Turn off?: Insert + Q
-* Go to Next Item: NumPad Down Arrow
-* Go to Next Heading: H
-* List All Headings: Insert + F7
-* Select Button or Link: Enter
+* Turn on: `control + alt + N`
+* Turn off?: `insert + Q`
+* Go to Next Item: `numpad down arrow
+* Go to Next Heading: `H`
+* List All Headings: `insert + F7`
+* Select Button or Link: `enter`
