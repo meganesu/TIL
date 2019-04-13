@@ -25,7 +25,7 @@ What are the perceivable areas of content on your page? Break down the contents 
 | `section` | `region` (when it has an accessible name**) |
 | `form` | `form` (when it has an accessible name**) |
 
-\* should be *top-level* landmarks
+\* should be *top-level* landmarks  
 \** such as `aria-label` or `aria-labelledby`
 
 ### Step 3: Label areas
