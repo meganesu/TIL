@@ -124,4 +124,4 @@ Q: Does the area start with a heading element?
 
 ## Example
 
-Check out [landmarks-example.html]() for an example of a page with basic landmarks.
+Check out <landmarks-example.html> for an example of a page with basic landmarks.
