@@ -3,6 +3,10 @@ body {
   grid-template-columns: 60% 40%;
 }
 
+#container {
+  border: 1px solid red;
+}
+
 #visual {
   grid-column-start: 1;
   grid-column-end: 2;
@@ -17,7 +21,7 @@ body {
 
 .item {
   border: 1px solid black;
-  background-color: #525525;
+  background-color: blue;
   width: 20px;
   height: 20px;
 }
