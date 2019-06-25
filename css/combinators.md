@@ -17,4 +17,4 @@
 | General sibling | `~` | `img ~ p` |
 | Children | `>` | `div > img` |
 | Descendant | ` ` | `#main-nav span` |
-| Column | `||` | `col || td` |
+| Column | `\|\|` | `col \|\| td` |
