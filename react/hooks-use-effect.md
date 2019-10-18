@@ -24,7 +24,7 @@ useEffect(functionToRun, propertiesToWatch);
 
 ## Example
 
-```
+```javascript
 const ContentBox = text => {
   useEffect(() => {
     window.addEventListener('scroll', handleScroll);

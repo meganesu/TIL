@@ -6,7 +6,7 @@ To use JavaScript inside of JSX, it needs to be wrapped with curly brackets `{}`
 
 ### Inserting Variable Into Element Text
 
-```
+```javascript
 const Greeting = name => (
   <p>
     Hello, {name}!
@@ -16,7 +16,7 @@ const Greeting = name => (
 
 ### Passing Variable As Prop
 
-```
+```javascript
 const Header = user => (
   <Greeting name={user.name} />
 )
@@ -24,7 +24,7 @@ const Header = user => (
 
 ### Iterating Over A List
 
-```
+```javascript
 const FriendsList = friends => (
   <ul>
     {

@@ -24,7 +24,7 @@ const [property, setProperty] = useState(initialValue);
 
 ## Example
 
-```
+```javascript
 const Counter = () => {
   const [count, setCount] = useState(0);
 
