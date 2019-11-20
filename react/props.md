@@ -19,3 +19,30 @@ Each prop should have a name and a value. The names should be the same across in
 
 ## How to Use Props Inside A Component
 
+### Functional Component
+
+If your functional component takes in props, you can pull individual properties off the `props` object passed into your component:
+
+```js
+const ContactCard = props => (
+  <div>
+    <p>{props.name}</p>
+    <p>{props.email}</p>
+    <p>{props.phone}</p>
+  </div>
+);
+```
+
+Alternatively, you could destructure the props object at the beginning, which would save you from needing to prefix every prop with `props.` when you use it in your component.
+
+```js
+const ContactCard = ({ name, email, phone }) => (
+  <div>
+    <p>{name}</p>
+    <p>{email}</p>
+    <p>{phone}</p>
+  </div>
+)
+```
+
+### Class Component
