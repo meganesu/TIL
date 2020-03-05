@@ -5,6 +5,9 @@
 1. Install Firefox.
     * Make Firefox the default browser.
     * Install the Ecosia add-on.
+1. Set up accounts in System Preferences.
+1. Connect all calendars to Calendar.
+    * Make sure that event notifications are set up for 10 minutes before the event!
 
 ## Programming
 
