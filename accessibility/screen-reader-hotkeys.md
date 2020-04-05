@@ -12,8 +12,8 @@
 ## NVDA (Windows)
 
 * Turn on: `control + alt + N`
-* Turn off?: `insert + Q`
-* Go to Next Item: `numpad down arrow
+* Turn off: `insert + Q`
+* Go to Next Item: `numpad down arrow`
 * Go to Next Heading: `H`
 * List All Headings: `insert + F7`
 * Select Button or Link: `enter`
