@@ -14,6 +14,6 @@ These are some links to things I've found useful or want to save for future refe
 
 * [Getting Set Up to Manually Test Web Accessibility](https://www.gatsbyjs.org/blog/2019-11-13-getting-set-up-to-manually-test-web-accessibility/) (Madalyn Parker, Gatsby): How to set up different screen readers
 
-Accessibility Audit Process
+### Accessibility Audit Process
 * [How I Audit a Website for Accessibility](https://marcysutton.com/how-i-audit-a-website-for-accessibility) (Marcy Sutton)
 * [My Web Accessibility Testing Process](https://www.a11ywithlindsey.com/blog/web-accessibility-testing-process) (Lindsey Kopacz)
