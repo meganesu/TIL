@@ -2,6 +2,10 @@
 
 These are some links to things I've found useful or want to save for future reference.
 
+## Design
+
+* [Translating Design Wireframes Into Accessible HTML/CSS (Deque)](https://accessibility.deque.com/translating-design-wireframes-into-accessible-html-css)
+
 ## Text
 
 * [Text Adaptability is Essential for Reading (TAdER)](http://www.tader.info/): About text and PDF readability
