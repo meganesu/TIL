@@ -5,6 +5,7 @@ These are some links to things I've found useful or want to save for future refe
 ## Design
 
 * [Translating Design Wireframes Into Accessible HTML/CSS (Deque)](https://accessibility.deque.com/translating-design-wireframes-into-accessible-html-css)
+* [Prototype Testing for Accessible Client-Side Routing](https://marcysutton.com/prototype-testing-accessible-clientside-routing/)
 
 ## Text
 
