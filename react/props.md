@@ -45,4 +45,8 @@ const ContactCard = ({ name, email, phone }) => (
 )
 ```
 
+Functional components will rerender whenever the value of a prop changes.
+
 ### Class Component
+
+Class components will _not necessarily_ rerender when the value of a prop changes. If you want to rerender a class component when a value changes, consider using state instead.
