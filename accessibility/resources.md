@@ -6,6 +6,7 @@ These are some links to things I've found useful or want to save for future refe
 
 * [Translating Design Wireframes Into Accessible HTML/CSS (Deque)](https://accessibility.deque.com/translating-design-wireframes-into-accessible-html-css)
 * [Prototype Testing for Accessible Client-Side Routing](https://marcysutton.com/prototype-testing-accessible-clientside-routing/)
+* [Your Interactive Makes Me Sick: Why your coolest scrolly features can cause problems, and what to do about it](https://source.opennews.org/articles/motion-sick/) (Eileen Webb)
 
 ## Text
 
