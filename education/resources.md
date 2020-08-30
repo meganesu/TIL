@@ -10,5 +10,7 @@
 
 ## Adult Education
 
+Adult education is also referred to as andragogy. It was popularized by Malcolm Knowles, author of the book *Informal Adult Education*.
+
 * [5 Principles for the Teacher of Adults (ThoughtCo)](https://www.thoughtco.com/principles-for-the-teacher-of-adults-31638)
 * [The Basics of Adult Learning (ThoughtCo)](https://www.thoughtco.com/what-is-adult-learning-31425)
