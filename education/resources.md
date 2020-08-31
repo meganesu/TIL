@@ -3,6 +3,7 @@
 ## General
 
 * [Cult of Pedagogy](https://www.cultofpedagogy.com/): blog posts and podcast about education and how to be a better teacher
+* [Universal Design for Learning Guidelines](http://udlguidelines.cast.org/)
 
 ## Curriculum Design
 
