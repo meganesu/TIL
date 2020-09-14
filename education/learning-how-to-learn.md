@@ -9,33 +9,35 @@ There are two kinds of thinking that your brain is capable of:
 * **Focused** thinking
     * Used when trying to do familiar tasks, with already established neural pathways.
     * It's like going on a drive when you're running errands. It's a thing you've done before, it's a path you know well, and you're trying to get there quickly and get something done.
-    * This is more in your prefrontal cortex.
+    * This happens mainly in your brain's prefrontal cortex.
 * **Diffuse** thinking: more relaxed
     * Used when forming new ideas for the first time.
     * It's like going out for a drive with no real destination. The roads all exist already (like the neurons and synapses in your brain), but you're going to take an ambling kind of approach and just see where you end up. And sometimes you'll end up somewhere interesting (at a new thought or idea).
     * This mode is what your brain uses in it's neural resting states.
     
-Imagine a pinball machine in your brain. When you have a thought, it's like firing the pinball. The pinball bounces around in your head, and its path changes directions when it hits different rubber bumpers (neurons). When your brain is in focus mode, it's like those bumpers are really close together. When your brain is in diffuse mode, it's like the bumpers are farther apart.
+Imagine a pinball machine in your brain. When you have a thought, it's like firing the pinball. The pinball bounces around in your brain, and its path changes directions when it hits different rubber bumpers. When your brain is in focus mode, it's like those bumpers are really close together. When your brain is in diffuse mode, it's like the bumpers are farther apart.
 
 > Metaphors and analogies are helpful for learning new things.
 
-You can only be in one mode at a time. It's like a coin - you can only see one side at a time. When you're learning something new, you need to be able to bounce back and forth between the two modes. You also need to spend adequate time learning the new material. It's like getting better at lifting weights: you don't just jump in all at once and start with the heaviest weight; you start small and gradually work your way up by doing a little bit every day.
+Your brain can only be in one mode at a time. It's like a coin - you can't see both sides of the coin at once. When you're learning something new, you need to be able to bounce back and forth between the two modes. You also need to spend adequate time learning the new material. It's like getting better at lifting weights: you don't just jump in all at once and start with the heaviest weight; you start small and gradually work your way up by doing a little bit every day.
 
 ## What is Learning?
 
-A quick download from Dominic: Your brain is made up of neurons. Each neuron can have multiple dendrites, which are like branches that reach out. A dendrite can have multiple synapses, which are the places that connect to other neurons. All the synapses already exist, but when you learn something new and the pinball starts bouncing around, your brain reinforces the synapses on the path that the pinball bounced. As you keep using a concept over time, those synapses get stronger and stronger and the paths between neurons get more established.
+A quick download from Dominic: Your brain is made up of neurons. Each neuron can have multiple dendrites, which are like little branches that reach out from the neuron to other neurons. The places where a dendrite connects to another neuron (at the axon) are called synapses. A single dendrite can have multiple synapses.
 
-Contrary to popular belief, your brain is building and removing neural connections every day, even after your brain has matured. New neurons are created in your hippocampus - the part of your brain responsible for learning and memory.
+Contrary to popular belief, your brain is creating new neurons all the time, even after your brain has matured. New neurons are created in your hippocampus - the part of your brain responsible for learning and memory.
+
+Your brain creates and removes connections between neurons every day - that's how you learn new things. When you learn something new and the pinball starts bouncing around, your brain reinforces the synapses on the path that the pinball bounced. As you keep using a concept over time, those synapses get stronger and stronger and the paths between neurons get more established. That makes it easier for you to recall information more quickly.
 
 Connections are stronger when you're in an enriched environment (with stimulation and other people). In the absence of an enriched environment, exercise will also increase the number of new neurons created.
 
-> Resource: [brainfacts.org](https://www.brainfacts.org/). Information about how your brain works.
+> 🧭 Resource: [brainfacts.org](https://www.brainfacts.org/). Information about how your brain works.
 
 ## Procrastination
 
 When you don't want to do something, the pain part of your brain is active. Your brain wants to stop that by switching your attention to something else. But it turns out that you also stop that neural discomfort by just doing the thing you don't want to do.
 
-> **The Pomodoro Technique:** Remove yourself from any distractions. Set a timer for 25 minutes. Do the thing you don't want to do. When the timer goes off, reward yourself by doing something else. It's like a mental workout.
+> 🍅 **The Pomodoro Technique:** Remove yourself from any distractions. Set a timer for 25 minutes. Do the thing you don't want to do. When the timer goes off, reward yourself by doing something else. It's like a mental workout.
 
 ## Practice Makes Permanent
 
