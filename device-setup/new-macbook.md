@@ -21,6 +21,7 @@
         ```
         Shell Command: Install 'code' command in PATH
         ```
+    * Change auto save setting to "onFocusChange".
 1. Install [Homebrew](https://brew.sh/).
 1. Install Node.
 1. Set up GitHub ssh key.
