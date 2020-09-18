@@ -70,7 +70,7 @@ For greatest success, work on the thing you're trying to learn right before taki
 
 ## Chunking
 
-Chunks are pieces of information that are related, which your brain can tie together. A chunk is the network of neurons that are connected and help you do a particular thing. Repetition helps build up chunks.
+Chunks are groups of related information which your brain can tie together. A chunk is the network of neurons that are connected and help you do a particular thing. Repetition helps build up chunks.
 
 Imagine a puzzle. Each separate piece is like a distinct piece of information. As you put together the puzzle, you build up chunks of connected pieces, which are easier to keep track of and help you get more context on the big picture.
 
@@ -118,3 +118,66 @@ The best way to see if you're truly understanding the material is to **test your
 > * Use details/summary blocks to review ideas or for exercises, so they can think through it before looking at the answers.
 > * Tell/remind readers about the benefits of recall!
 > * After explaining a concept, provide examples for users to test themselves on the concepts.
+
+## Motivation
+
+Your emotions affect how well you learn. It's hard to learn something when you're not into it. Chemicals that affect your motivation:
+
+* Acetylcholine
+    * Important for focused learning, when you need to pay close attention.
+    * Used for creating new long-term memories.
+* Dopamine
+    * Released when you receive an unexpected reward.
+    * Loss of dopamine neurons leads to lack of motivation, Parkinson's.
+* Seratonin
+    * Affects social life.
+    * Influences risk-taking behavior.
+    
+## Value of Chunking
+
+Building up the number of chunks in your mind allows you to innovate by making connections between concepts.
+
+Imagine a puzzle. Having more chunks of connected pieces allows you to get a more complete idea of the big picture.
+
+If you don't practice to strengthen the chunks, the big picture will remain faint. Practice helps you notice patterns between chunks.
+
+**Transfer:** the ability to relate chunks in one domain to chunks in a seemingly unrelated domain.
+
+If you have a lot to learn, it may feel overwhelming. But persist and take it one chunk at a time, and it will get easier.
+
+## Approaches to Problem Solving
+
+### Method 1: Sequential approach
+
+* Step-by-step solution.
+* Involves focused mode of thinking.
+
+### Method 2: Holistic ("global") approach
+
+* a.k.a. intuition. Making connections to find a creative solution.
+    * Most difficult problems use this approach, because it requires creative solutions.
+* Involves diffuse mode of thinking.
+    * Solutions need to be verified with the focused mode, since intuition isn't always correct.
+
+## Overlearning
+
+Continuing to practice after mastering what you can in a single session. Often it can be more effective to take a break and 
+
+* Pros:
+    * Can be helpful when you are trying to build up automaticity. (Especially if you get nervous when it's time to actually perform.)
+* Cons:
+    * Extending a learning session when you've already plateaued isn't as effective as taking a break and then coming back to the material later (spaced repetition).
+    * Mastering a single concept can give you the illusion of competence (and make you think you know a wider range of content than you actually do).
+
+A better approach: **deliberate practice** (practice the thing you find difficult).
+
+**Einstellung:** An initial idea you already have can prevent you from finding a better solution. The existing patterns in your brain create a rut that can mislead you.
+    
+Jumping right into the deep end before studying is a bad idea, because you run the risk of setting up bad connections for incorrect solutions (creating bad intuition).
+
+Best way to learn: **interleaving**. Practice jumping back and forth between problems or situations that need different strategies.
+
+* Mix up your learning. Knowing how to use a concept isn't enough - you also need to know when to use it.
+    * Applies to any kind of learning, not just academics. Switching between subjects helps you think more creatively and make connections you wouldn't otherwise make.
+* Interleaving may feel more difficult, but it strengthens neural flexibility.
+* Interleaving makes it easier to make connections between different fields, and find more creative solutions. Your brain can bring ideas from one field to another.
