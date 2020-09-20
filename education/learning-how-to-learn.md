@@ -181,3 +181,60 @@ Best way to learn: **interleaving**. Practice jumping back and forth between pro
     * Applies to any kind of learning, not just academics. Switching between subjects helps you think more creatively and make connections you wouldn't otherwise make.
 * Interleaving may feel more difficult, but it strengthens neural flexibility.
 * Interleaving makes it easier to make connections between different fields, and find more creative solutions. Your brain can bring ideas from one field to another.
+
+## Tackling Procrastination
+
+We already talked about the Pomodoro technique.
+
+Good learning happens bit by bit.
+
+Procrastination is easy. Will power is hard.
+
+Your brain has developed lots of habits. You can think of these like zombies: they run on autopilot without you needing to use much brain power.
+
+Chunking is related to habits. When you've chunked a skill, you don't have to think about every detail involved.
+
+Habits have four parts:
+
+1. The cue: The trigger that sends you into "zombie mode."
+    * The cue isn't helpful/harmful, but the reaction to it is.
+    * e.g., Your phone buzzes with a new notification.
+1. The routine: What do you do after the trigger?
+    * e.g., You stop what you're doing and check your phone.
+1. The reward: The feeling of pleasure that comes after the routine.
+    * Finding ways to reward good behaviors is important to reinforce the behavior.
+1. The belief: What underlying idea does this whole process reinforce?
+    * If you have a bad habit, you may need to first tackle the underlying belief (e.g., "I'm just not good at math.")
+
+Ways to combat procrastination:
+
+* Non-procrastinators often remind themselves that they'll feel better once they just suck it up and do the thing.
+* One way to prevent procrastination is to focus on **process**, not product. Focus on setting time intervals for work, instead of focusing on outcomes.
+    * The product is what triggers the neural discomfort. Spending a short amount of time working toward the outcome is better anyway, because spaced repetition will make yourself learn deeper anyway.
+* When a distraction arises, you need to train yourself to let it pass by.
+
+Harness your zombie habits to help you! You can change your habits by changing your reaction to the cue.
+
+1. The cue: What is it that sends you into zombie procrastination mode?
+    * Cues are often related to a location, a time, how you feel, or a reaction to someone else or an event.
+    * Often, you won't even realize that you've slipped into procrastination mode until it's too late.
+    * Try to cut out bad distractions, like your phone or web surfing.
+1. The routine:
+    * Come up with a plan for how to make yourself more productive.
+    * Shifting your routine is the part that requires will power.
+1. The reward:
+    * Can you use an emotional reward (sense of pride)? Come up with a personal bet/challenge for yourself? Pick a nice thing to get yoursel?
+    * Delay rewards until you complete the task (e.g., the Pomodoro session).
+1. The belief:
+    * Finding a supportive community can help you change your underlying beliefs.
+    * Remind yourself that you can do this!
+    
+## Juggling Life and Learning
+
+* Write a weekly list of tasks in a planner journal. Write a daily to-do list the night before.
+    * Writing the tasks down frees up slots in your working memory!
+    * Add in tasks that use diffuse mode (cleaning, taking a walk, etc.).
+    * Schedule breaks!
+    * Take notes on what works for you and what doesn't.
+    * Plan your quitting time! When are you going to stop for the day?
+* "Eat the biggest frog first." Start your day with the hardest thing on your to-do list.
