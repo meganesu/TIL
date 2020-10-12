@@ -15,7 +15,7 @@ There are two kinds of thinking that your brain is capable of:
     * It's like going out for a drive with no real destination. The roads all exist already (like the neurons and synapses in your brain), but you're going to take an ambling kind of approach and just see where you end up. And sometimes you'll end up somewhere interesting (at a new thought or idea).
     * This mode is what your brain uses in it's neural resting states.
     
-Imagine a pinball machine in your brain. When you have a thought, it's like firing the pinball. The pinball bounces around in your brain, and its path changes directions when it hits different rubber bumpers. When your brain is in focus mode, it's like those bumpers are really close together. When your brain is in diffuse mode, it's like the bumpers are farther apart.
+Imagine a pinball machine in your brain. When you have a thought, it's like firing the pinball. The pinball bounces around in your brain, and its path changes directions when it hits different rubber bumpers. You can think of that path as the neural pathway that a thought takes through your brain. When your brain is in focus mode, it's like those bumpers are really close together, and the signal in your brain bounces around a lot in a specific section. When your brain is in diffuse mode, it's like the bumpers are farther apart, and the signal moves across many different sections of your brain.
 
 > Metaphors and analogies are helpful for learning new things.
 
@@ -238,3 +238,39 @@ Harness your zombie habits to help you! You can change your habits by changing y
     * Take notes on what works for you and what doesn't.
     * Plan your quitting time! When are you going to stop for the day?
 * "Eat the biggest frog first." Start your day with the hardest thing on your to-do list.
+
+---
+
+## Memory
+
+Your brain is hard-wired to be better at remembering visual spatial relations. Imagine walking through a house you've never been in. After a tour, you roughly remember where things are, without needing to study. Images connect directly to your visual spatial centers with enhanced memory abilities.
+
+How do you get a visual to move from your working memory to long term memory? It should be **memorable** (the more evocative, the better), and you should use **repetition** (like spaced repetition with flashcards, to make use of interleaving). When practicing, say the content aloud, to build auditory hooks to help you remember the material.
+
+> Handwriting helps you more deeply commit information to memory (as opposed to typing).
+
+### Long-term memory:
+
+* The hippocampus is responsible for long-term memory and **memory consolidation** (taking things from short-term to long-term memory). Memory consolidation happens during sleep.
+* Memories can change! Your brain has to retrieve the memory from long-term memory (where it was inactive), put it back in your working memory (where you're actively thinking about it), and then restore the memory in your long-term memory again (when you're asleep). This process is called **reconsolidation**. Since the process overwrites the old memory in long-term memory each time you remember it, it's possible for individual memories to change over time.
+* You can create false memories by vividly imagining something (like when you're using your imagination as a child).
+
+### Tips for improving memory:
+
+1. Create meaningful groups to simplify the material.
+    * Create mnemonics (e.g., use abbreviations).
+    * For remembering numbers, try to associate them with things you already remember (e.g., the year a family member was born, events that happened at that age) or a number system you're already familiar with (e.g., a good running time).
+1. Mind Palace technique
+    * Especially helpful for remembering lists of things.
+    * Choose a familiar location that you know well. Place the things you want to remember in various spots around the location. Visualize walking through the space and seeing each of the things.
+1. Come up with a picture.
+    * Make use of your brain's predisposition to remember visuals.
+    
+These memory tricks make it faster to get information from working to long-term memory.
+    
+### General tips for brain health (from US memory champion Nelson Dellis):
+
+1. Keep your brain active! Try to memorize things (groceries, etc.)
+1. Be physically active.
+1. Be social!
+1. Maintain a healthy diet. DHA Omega-3.
