@@ -9,6 +9,7 @@ This is a list of some online resources I've found about how to be a better desi
 ### Photos
 
 * [WOCinTech Flickr](https://www.flickr.com/photos/wocintechchat/): Hundreds of free stock images of women of color technologists available under a CC-A license
+* [The Noun Project: Diversity in Tech Collection](https://thenounproject.com/browse/campaign/diversity-in-tech-collection-1/): Free to use under a Creative Commons license (CC BY-NC-ND 2.0)
 
 ### Illustrations
 
