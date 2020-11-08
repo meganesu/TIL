@@ -9,3 +9,5 @@ Inspiration: The hero image for [Eve Porcello's GraphQL Workshop site](https://w
 
 * [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing) (Google Developers)
 * [How To Create a Parallax Scrolling Effect with Pure CSS in Chrome](https://www.digitalocean.com/community/tutorials/css-pure-css-parallax) (Digital Ocean)
+* [Use Rellax.js to Create this Awesome Parallax Scrolling Effect](https://www.youtube.com/watch?v=aWJgIETz-Kk) (DesignCourse, YouTube): Shows how to position multiple images so that they overlap (layers)
+* [Vanilla JavaScript Parallax with just a Few Lines of Code](https://www.youtube.com/watch?v=Dxm6EwvQIl8) (DesignCourse, YouTube)
