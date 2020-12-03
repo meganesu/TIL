@@ -14,3 +14,4 @@ This is a list of some online resources I've found about how to be a better desi
 ### Illustrations
 
 * [Black Illustrations](https://www.blackillustrations.com/) by John D. Saunders: Custom illustrations of African Americans and people of color for use on websites, pitch decks, infographics and anywhere you like for commercial and personal use
+* [Open Peeps](https://www.openpeeps.com/) by Pablo Stanley: Library of hand-drawn illustrations. Mix and match skin tones, hairstyles, accessories.
