@@ -1,5 +1,14 @@
 # Semantic HTML
 
+By using semantic HTML, you can take advantage of accessibility features that are already built into browsers. Just because you can make a `div` be a `button` doesn't mean you should.
+
+## Choosing the right element
+
+* Button vs. checkbox toggle?
+    * Use a checkbox when the user needs to take another action to submit the result (i.e. in a form).
+    * Use a button when clicking the element immediately triggers the action.
+    * Source: https://stevenklambert.com/writing/button-vs-checkbox-toggle/
+
 ## Resources
 
 * https://guide.freecodecamp.org/html/html5-semantic-elements/
