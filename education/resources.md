@@ -4,6 +4,8 @@
 
 * [Cult of Pedagogy](https://www.cultofpedagogy.com/): blog posts and podcast about education and how to be a better teacher
 * [Universal Design for Learning Guidelines](http://udlguidelines.cast.org/)
+* [Spaced Repetition interactive comic](https://ncase.me/remember/)
+* [Teaching Tech Together](http://teachtogether.tech/)
 
 ## Curriculum Design
 
