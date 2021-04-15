@@ -11,6 +11,9 @@ By using semantic HTML, you can take advantage of accessibility features that ar
 * Details / summary vs. custom accordion?
     * Details / summary doesn't work well with all browsers, so a custom accordion might be better.
     * Source: https://www.hassellinclusion.com/blog/accessible-accordions-part-2-using-details-summary/
+* Text callout boxes
+    * Use the `<aside>` element for callout boxes in HTML.
+    * Source: https://www.stylemanual.gov.au/format-writing-and-structure/structure/text-boxes-and-callouts
 
 ## Resources
 
