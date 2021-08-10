@@ -47,3 +47,9 @@ The key is to shift your mindset from seeing the **person** as flawed to seeing 
     * One risk of adding a "temporary" fix before doing a larger redesign is that you might end up being stuck with with that fix permanently.
 * **Inconvenient or stigmatizing designs** that segregate disabled users into a separate experience.
 * **"Accessibility rot" over time** as maintainers change or forget to test existing accessibility requirements.
+
+## User Research with People with Disabilities
+
+* **Fix what you know how to fix first.** Don't waste testers' time with things that automated testing tools can catch for you.
+* **Pay attention to usability feedback.** If it's technically accessible but not usable, then it's not done. What things do users find confusing? Where do they get stuck?
+* **Record screen videos of people with disabilities using the site.**
