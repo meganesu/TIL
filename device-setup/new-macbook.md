@@ -19,7 +19,12 @@
 
 ## Programming
 
-1. Download VS Code.
+1. Set global Git config for name and email:
+    ```shell
+    git config --global user.name "Megan Sullivan"
+    git config --global user.email "my@email.com"
+    ```
+3. Download VS Code.
     * Install the IntelliJ Keyboard Shortcuts plugin.
     * Set up the CLI:
         ```
