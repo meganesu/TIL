@@ -33,4 +33,18 @@
     * Change auto save setting to "onFocusChange".
 1. Install [Oh My Zsh](https://ohmyz.sh/).
 1. Install [Homebrew](https://brew.sh/).
-1. Install Node.
+    * Install `n`: `brew install n`
+3. Install Node.
+    * Change npm global install folder path, to get around `Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/netlify-cli'` when trying to globally install packages. [Kevin Hooke blog post](https://www.kevinhooke.com/2018/02/09/fixing-npm-global-install-permissions-on-macos/)
+    * ```sh
+      mkdir ~/.npm-global
+      npm config set prefix '~/.npm-global'
+      
+      # Add the following line to ~/.zshrc
+      export PATH=~/.npm-global/bin:$PATH
+      
+      source ~/.profile
+      
+      # Now you should be able to globally install packages without issues
+      npm install -g netlify-cli
+      ```
