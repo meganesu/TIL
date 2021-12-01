@@ -49,3 +49,10 @@
       # Now you should be able to globally install packages without issues
       npm install -g netlify-cli
       ```
+
+## Accessibility
+
+1. [Turn on tabbing through controls for Firefox.](firefox-catalina-a11y.md)
+2. In Safari, open Preferences -> Advanced.
+    - Check Accessibility -> "Press Tab to highlight each item on a webpage"
+    - Check "Show Develop menu in menu bar" (at the bottom)
